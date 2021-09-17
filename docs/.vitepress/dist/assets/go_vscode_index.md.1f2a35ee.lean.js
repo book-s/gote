@@ -1,0 +1,1 @@
+import{o as e,c as o,a as l}from"./app.b43eac91.js";const n='{"title":"Go 安装","description":"","frontmatter":{},"relativePath":"go/vscode/index.md","lastUpdated":1631897806578}',s={},a=[l('',23)];s.render=function(l,n,s,r,p,i){return e(),o("div",null,a)};export{n as __pageData,s as default};
