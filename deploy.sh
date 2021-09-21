@@ -13,4 +13,5 @@ git commit -m 'deploy'
 
 # git push -f git@github.com:book-s/Notes.git master
 
-git push -f git@github.com:book-s/notes.git master:gh-pages
+
+git push -f git@github.com:book-s/gote.git master:gh-pages

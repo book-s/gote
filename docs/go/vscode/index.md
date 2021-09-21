@@ -46,6 +46,7 @@ func main() {
 在目录 /Users/apple/go/github/src/hello 输入以下，相当于项目hello初始化一个项目依赖管理器。
 ```language
 go mod init
+go mod tidy
 ```
 
 最后vscode中打开这个hello.go运行，或者在terminal下hello文件目录运行下面命令，都可得到hello world。
