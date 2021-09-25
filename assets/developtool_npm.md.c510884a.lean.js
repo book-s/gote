@@ -1,0 +1,1 @@
+import{o as n,c as s,a as e}from"./app.2847925b.js";const p='{"title":"NPM","description":"","frontmatter":{},"relativePath":"developtool/npm.md","lastUpdated":1631899548095}',a={},r=[e('',4)];a.render=function(e,p,a,l,i,t){return n(),s("div",null,r)};export{p as __pageData,a as default};
