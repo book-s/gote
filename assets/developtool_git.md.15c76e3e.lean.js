@@ -1,0 +1,1 @@
+import{o as n,c as e,a as i}from"./app.a8c9f231.js";const s='{"title":"Git配置","description":"","frontmatter":{},"relativePath":"developtool/git.md","lastUpdated":1631899407603}',a={},l=[i('',8)];a.render=function(i,s,a,r,t,o){return n(),e("div",null,l)};export{s as __pageData,a as default};
